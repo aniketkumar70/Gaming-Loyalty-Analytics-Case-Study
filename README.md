@@ -20,7 +20,7 @@ This repository demonstrates an end-to-end analytics workflow for a real-money o
 
 | File/Folders                             | Description                                                      |
 |------------------------------------------|------------------------------------------------------------------|
-| `Vindiata_Consulting_Private_Limited_Assignmnet.ipynb` | Main Jupyter notebook with full data analysis, loyalty logic, business answers, and visualizations |
+| `main.ipynb`                             | Main Jupyter notebook with full data analysis, loyalty logic, business answers, and visualizations |
 | `Analytics-Position-Case-Study-Question.xlsx`   | Source case study and assignment brief (if used in input)        |
 | `report.md`                              | Markdown summary of solution and key insights (this document)    |
 | `data/`                                  | (Optional) Supplementary or sample transaction/activity logs     |
