@@ -59,7 +59,7 @@ This repository demonstrates an end-to-end analytics workflow for a real-money o
 
 1. **Clone this repository or download files.**
 2. Place the required Excel file (if available) in the workspace.
-3. Open `Vindiata_Consulting_Private_Limited_Assignmnet.ipynb` in Jupyter, Colab, or VS Code.
+3. Open `main.ipynb` in Jupyter, Colab, or VS Code.
 4. Run cells sequentially for:
     - Data load and cleaning
     - Loyalty computation
